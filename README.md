@@ -40,7 +40,7 @@ A classic **Snake Game** implemented in C++ using Object-Oriented Programming (O
 ## 🛠️ Installation 
 
 1. **Clone the Repository**
-   git clone https://github.com/Priyansh-9021/IT206_Mythrix_Assignment_1.git 
+   git clone https://github.com/Eye-of-God-cyber/Snake_Game
    cd snake-game-cpp
 2. **Compile (Windows)**:
    g++ snake_game.cpp -o snake_game.exe
